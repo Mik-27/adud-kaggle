@@ -1,98 +1,142 @@
 ,location,date,vaccine,source_url,total_vaccinations,total_vaccinations_per_hundred,people_vaccinated,people_vaccinated_per_hundred,people_fully_vaccinated,people_fully_vaccinated_per_hundred,daily_vaccinations,daily_change_in_vaccinations,daily_vaccinations_per_million
-0,India,2021-01-15,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004927,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,India,2021-01-16,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004928,191181.0,0.01,191181.0,0.01,0.0,0.0,191181.0,0.0,139.0
-2,India,2021-01-17,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350815129177260034,224301.0,0.02,224301.0,0.02,0.0,0.0,112150.0,-79031.0,81.0
-3,India,2021-01-18,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,454049.0,0.03,454049.0,0.03,0.0,0.0,151350.0,39200.0,110.0
-4,India,2021-01-19,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,674835.0,0.05,674835.0,0.05,0.0,0.0,168709.0,17359.0,122.0
-5,India,2021-01-20,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,806484.0,0.06,806484.0,0.06,0.0,0.0,161297.0,-7412.0,117.0
-6,India,2021-01-21,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1043534.0,0.08,1043534.0,0.08,0.0,0.0,173922.0,12625.0,126.0
-7,India,2021-01-22,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1390592.0,0.1,1390592.0,0.1,0.0,0.0,198656.0,24734.0,144.0
-8,India,2021-01-23,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1582201.0,0.11,1582201.0,0.11,0.0,0.0,198717.0,61.0,144.0
-9,India,2021-01-24,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1615504.0,0.12,1615504.0,0.12,0.0,0.0,198743.0,26.0,144.0
-10,India,2021-01-25,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2023809.0,0.15,2023809.0,0.15,0.0,0.0,224251.0,25508.0,163.0
-11,India,2021-01-26,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2029480.0,0.15,2029480.0,0.15,0.0,0.0,193521.0,-30730.0,140.0
-12,India,2021-01-27,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2355979.0,0.17,2355979.0,0.17,0.0,0.0,221356.0,27835.0,160.0
-13,India,2021-01-28,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2928053.0,0.21,2928053.0,0.21,0.0,0.0,269217.0,47861.0,195.0
-14,India,2021-01-29,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3500027.0,0.25,3500027.0,0.25,0.0,0.0,301348.0,32131.0,218.0
-15,India,2021-01-30,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3744334.0,0.27,3744334.0,0.27,0.0,0.0,308876.0,7528.0,224.0
-16,India,2021-01-31,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3758843.0,0.27,3758843.0,0.27,0.0,0.0,306191.0,-2685.0,222.0
-17,India,2021-02-01,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3950156.0,0.29,3950156.0,0.29,0.0,0.0,275192.0,-30999.0,199.0
-18,India,2021-02-02,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4138918.0,0.3,4138918.0,0.3,0.0,0.0,301348.0,26156.0,218.0
-19,India,2021-02-03,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4449552.0,0.32,4449552.0,0.32,0.0,0.0,299082.0,-2266.0,217.0
-20,India,2021-02-04,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4959445.0,0.36,4959445.0,0.36,0.0,0.0,290199.0,-8883.0,210.0
-21,India,2021-02-05,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5416849.0,0.39,5416849.0,0.39,0.0,0.0,273832.0,-16367.0,198.0
-22,India,2021-02-06,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5775322.0,0.42,5775322.0,0.42,0.0,0.0,290141.0,16309.0,210.0
-23,India,2021-02-07,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5812362.0,0.42,5812362.0,0.42,0.0,0.0,293360.0,3219.0,213.0
-24,India,2021-02-08,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6259008.0,0.45,6259008.0,0.45,0.0,0.0,329836.0,36476.0,239.0
-25,India,2021-02-09,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6611561.0,0.48,6611561.0,0.48,0.0,0.0,353235.0,23399.0,256.0
-26,India,2021-02-10,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7017114.0,0.51,7017114.0,0.51,0.0,0.0,366795.0,13560.0,266.0
-27,India,2021-02-11,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7505010.0,0.54,7505010.0,0.54,0.0,0.0,363652.0,-3143.0,264.0
-28,India,2021-02-12,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7967647.0,0.58,7967647.0,0.58,0.0,0.0,364400.0,748.0,264.0
-29,India,2021-02-13,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1697804,8052454.0,0.58,8044786.0,0.58,7668.0,0.0,325305.0,-39095.0,236.0
-30,India,2021-02-15,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698251,8516771.0,0.62,8418653.0,0.61,98118.0,0.01,322538.0,-2767.0,234.0
-31,India,2021-02-16,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698525,8857341.0,0.64,8641002.0,0.63,216339.0,0.02,320826.0,-1712.0,232.0
-32,India,2021-02-17,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698832,9186757.0,0.67,8844641.0,0.64,342116.0,0.02,309949.0,-10877.0,225.0
-33,India,2021-02-18,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699157,9846523.0,0.71,9381591.0,0.68,464932.0,0.03,334502.0,24553.0,242.0
-34,India,2021-02-19,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699476,10449942.0,0.76,9693000.0,0.7,756942.0,0.05,354614.0,20112.0,257.0
-35,India,2021-02-20,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699698,10838323.0,0.79,9964383.0,0.72,873940.0,0.06,397981.0,43367.0,288.0
-36,India,2021-02-21,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699735,11085173.0,0.8,10124531.0,0.73,960642.0,0.07,400080.0,2099.0,290.0
-37,India,2021-02-22,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700035,11424094.0,0.83,10308552.0,0.75,1115542.0,0.08,415332.0,15252.0,301.0
-38,India,2021-02-23,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700269,11907392.0,0.86,10585757.0,0.77,1321635.0,0.1,435722.0,20390.0,316.0
-39,India,2021-02-24,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700553,12366633.0,0.9,10884879.0,0.79,1481754.0,0.11,454268.0,18546.0,329.0
-40,India,2021-02-25,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700888,13067047.0,0.95,11206188.0,0.81,1860859.0,0.13,460075.0,5807.0,333.0
-41,India,2021-02-26,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701203,13756940.0,1.0,11552857.0,0.84,2204083.0,0.16,472428.0,12353.0,342.0
-42,India,2021-02-27,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701292,14242547.0,1.03,11788669.0,0.85,2453878.0,0.18,486318.0,13890.0,352.0
-43,India,2021-02-28,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCovidVaccinationCoverageReportDay43ason28thFebat7am.pdf,14301266.0,1.04,11845075.0,0.86,2456191.0,0.18,459442.0,-26876.0,333.0
-44,India,2021-03-01,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport2ndMarch2021.pdf,14854136.0,1.08,12256337.0,0.89,2597799.0,0.19,490006.0,30564.0,355.0
-45,India,2021-03-02,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport2March2021.pdf,15620749.0,1.13,12906771.0,0.94,2713978.0,0.2,530480.0,40474.0,384.0
-46,India,2021-03-03,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport3rdMarch2021.pdf,16616048.0,1.2,13739121.0,1.0,2876927.0,0.21,607059.0,76579.0,440.0
-47,India,2021-03-04,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport4thMarch2021.pdf,18005503.0,1.3,14796835.0,1.07,3208668.0,0.23,705494.0,98435.0,511.0
-48,India,2021-03-05,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thMarch2021.pdf,19497704.0,1.41,15996683.0,1.16,3501021.0,0.25,820109.0,114615.0,594.0
-49,India,2021-03-06,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thMarch2021.pdf,20922344.0,1.52,17168303.0,1.24,3754041.0,0.27,954257.0,134148.0,691.0
-50,India,2021-03-07,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage7thMarch2021.pdf,20989010.0,1.52,17227903.0,1.25,3761107.0,0.27,955392.0,1135.0,692.0
-51,India,2021-03-08,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport8thMarch2021.pdf,23008733.0,1.67,18943283.0,1.37,4065450.0,0.29,1164942.0,209550.0,844.0
-52,India,2021-03-09,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport9thMarch2021.pdf,24367906.0,1.77,20004227.0,1.45,4363679.0,0.32,1249594.0,84652.0,906.0
-53,India,2021-03-10,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport10thMarch2021.pdf,25685011.0,1.86,21034481.0,1.52,4650530.0,0.34,1295566.0,45972.0,939.0
-54,India,2021-03-11,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationCoverageReport11thMarch2021.pdf,26164920.0,1.9,21435841.0,1.55,4729079.0,0.34,1165631.0,-129935.0,845.0
-55,India,2021-03-12,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12thMarch2021.pdf,28218457.0,2.04,23075504.0,1.67,5142953.0,0.37,1245822.0,80191.0,903.0
-56,India,2021-03-13,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thMarch2021.pdf,29738409.0,2.15,24307635.0,1.76,5430774.0,0.39,1259438.0,13616.0,913.0
-57,India,2021-03-14,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationreport14thMarch2021.pdf,29908038.0,2.17,24452385.0,1.77,5455653.0,0.4,1274147.0,14709.0,923.0
-58,India,2021-03-15,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport15thMarch2021.pdf,32947432.0,2.39,27079484.0,1.96,5867948.0,0.43,1419814.0,145667.0,1029.0
-59,India,2021-03-16,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage16thMarch2021.pdf,35064536.0,2.54,28862037.0,2.09,6202499.0,0.45,1528090.0,108276.0,1107.0
-60,India,2021-03-17,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thMarch2021.pdf,37143255.0,2.69,30600787.0,2.22,6542468.0,0.47,1636892.0,108802.0,1186.0
-61,India,2021-03-18,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage18thMarch2021.pdf,39339817.0,2.85,32426230.0,2.35,6913587.0,0.5,1882128.0,245236.0,1364.0
-62,India,2021-03-19,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage19thMarch2021.pdf,42063392.0,3.05,34842030.0,2.52,7221362.0,0.52,1977848.0,95720.0,1433.0
-63,India,2021-03-20,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport20thMarch2021.pdf,44603841.0,3.23,37125187.0,2.69,7478654.0,0.54,2123633.0,145785.0,1539.0
-64,India,2021-03-21,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage21stMarch2021.pdf,45065998.0,3.27,37574302.0,2.72,7491696.0,0.54,2165423.0,41790.0,1569.0
-65,India,2021-03-22,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport22ndMarch2021.pdf,48494594.0,3.51,40631153.0,2.94,7863441.0,0.57,2221023.0,55600.0,1609.0
-66,India,2021-03-23,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport24thMarch2021.pdf,50841286.0,3.68,42731952.0,3.1,8109334.0,0.59,2253821.0,32798.0,1633.0
-67,India,2021-03-24,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport24thMarch2021.pdf,53145709.0,3.85,44846538.0,3.25,8299171.0,0.6,2286065.0,32244.0,1657.0
-68,India,2021-03-25,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport25thMarch2021.pdf,55504440.0,4.02,47001472.0,3.41,8502968.0,0.62,2309232.0,23167.0,1673.0
-69,India,2021-03-26,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport26thMarch2021.pdf,58109773.0,4.21,49426618.0,3.58,8683155.0,0.63,2292340.0,-16892.0,1661.0
-70,India,2021-03-27,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf,60269782.0,4.37,51441436.0,3.73,8828346.0,0.64,2237992.0,-54348.0,1622.0
-71,India,2021-03-28,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport28thMarch2021.pdf,60530435.0,4.39,51660234.0,3.74,8870201.0,0.64,2209205.0,-28787.0,1601.0
-72,India,2021-03-29,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationcoveragereport29thMarch2021.pdf,61113354.0,4.43,52211398.0,3.78,8901956.0,0.65,1802680.0,-406525.0,1306.0
-73,India,2021-03-30,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf,63054353.0,4.57,53989035.0,3.91,9065318.0,0.66,1744724.0,-57956.0,1264.0
-74,India,2021-03-31,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport31stMarch2021.pdf,65117896.0,4.72,55783201.0,4.04,9334695.0,0.68,1710312.0,-34412.0,1239.0
-75,India,2021-04-01,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport1stApril2021.pdf,68789138.0,4.98,59148798.0,4.29,9640340.0,0.7,1897814.0,187502.0,1375.0
-76,India,2021-04-02,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageREport2ndApril2021.pdf,73054295.0,5.29,63081589.0,4.57,9972706.0,0.72,2134932.0,237118.0,1547.0
-77,India,2021-04-03,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationcoveragereport3rdApril2021.pdf,75979651.0,5.51,65739470.0,4.76,10240181.0,0.74,2244267.0,109335.0,1626.0
-78,India,2021-04-04,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport4thApril2021.pdf,79105163.0,5.73,68678838.0,4.98,10426325.0,0.76,2653533.0,409266.0,1923.0
-79,India,2021-04-05,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thApril2021.pdf,83110926.0,6.02,72277309.0,5.24,10833617.0,0.79,3142510.0,488977.0,2277.0
-80,India,2021-04-06,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thApril2021.pdf,87077474.0,6.31,75937015.0,5.5,11140459.0,0.81,3431874.0,289364.0,2487.0
-81,India,2021-04-07,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport7thApril2021.pdf,90198673.0,6.54,78763027.0,5.71,11435646.0,0.83,3582968.0,151094.0,2596.0
-82,India,2021-04-08,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageREport8thApril2021.pdf,94334262.0,6.84,82456522.0,5.98,11877740.0,0.86,3649303.0,66335.0,2644.0
-83,India,2021-04-09,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport9thApril2021.pdf,98075160.0,7.11,85763852.0,6.21,12311308.0,0.89,3574409.0,-74894.0,2590.0
-84,India,2021-04-10,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport10thApril2021.pdf,101595147.0,7.36,88885961.0,6.44,12709186.0,0.92,3659357.0,84948.0,2652.0
-85,India,2021-04-11,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport11thApril2021.pdf,104528565.0,7.57,91587400.0,6.64,12941165.0,0.94,3631915.0,-27442.0,2632.0
-86,India,2021-04-12,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12April2021.pdf,108533085.0,7.86,95043039.0,6.89,13490046.0,0.98,3631737.0,-178.0,2632.0
-87,India,2021-04-13,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thApril2021.pdf,111179578.0,8.06,97301914.0,7.05,13877664.0,1.01,3443158.0,-188579.0,2495.0
-88,India,2021-04-14,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport14thApril2021.pdf,114493238.0,8.3,100179199.0,7.26,14314039.0,1.04,3470652.0,27494.0,2515.0
-89,India,2021-04-15,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport15thApril2021.pdf,117223509.0,8.49,102349255.0,7.42,14874254.0,1.08,3269892.0,-200760.0,2369.0
-90,India,2021-04-16,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport16thApril2021.pdf,119937641.0,8.69,104408484.0,7.57,15529157.0,1.13,3123212.0,-146680.0,2263.0
-91,India,2021-04-17,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thApril2021.pdf,122622590.0,8.89,106431076.0,7.71,16191514.0,1.17,3003920.0,-119292.0,2177.0
-92,India,2021-04-18,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport18thApril2021.pdf,123852566.0,8.97,107371770.0,7.78,16480796.0,1.19,2760572.0,-243348.0,2000.0
-93,India,2021-04-19,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport19thApril2021.pdf,127129113.0,9.21,109659181.0,7.95,17469932.0,1.27,2656575.0,-103997.0,1925.0
-94,India,2021-04-20,"Covaxin, Oxford/AstraZeneca",0,0.0,0.0,0.0,0.0,0.0,1.3,2458290.0,-198285.0,1781.0
-95,India,2021-04-21,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,129646105.0,9.39,111673361.0,8.09,17972744.0,1.3,2164695.0,-293595.0,1569.0
-96,India,2021-04-22,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,132754608.0,9.62,113584269.0,8.23,19170339.0,1.39,2218728.0,54033.0,1608.0
+0,India,2021-01-15 00:00:00,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004927,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,India,2021-01-16 00:00:00,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004928,191181.0,0.01,191181.0,0.01,0.0,0.0,191181.0,0.0,139.0
+2,India,2021-01-17 00:00:00,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350815129177260034,224301.0,0.02,224301.0,0.02,0.0,0.0,112150.0,-79031.0,81.0
+3,India,2021-01-18 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,454049.0,0.03,454049.0,0.03,0.0,0.0,151350.0,39200.0,110.0
+4,India,2021-01-19 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,674835.0,0.05,674835.0,0.05,0.0,0.0,168709.0,17359.0,122.0
+5,India,2021-01-20 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,806484.0,0.06,806484.0,0.06,0.0,0.0,161297.0,-7412.0,117.0
+6,India,2021-01-21 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1043534.0,0.08,1043534.0,0.08,0.0,0.0,173922.0,12625.0,126.0
+7,India,2021-01-22 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1390592.0,0.1,1390592.0,0.1,0.0,0.0,198656.0,24734.0,144.0
+8,India,2021-01-23 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1582201.0,0.11,1582201.0,0.11,0.0,0.0,198717.0,61.0,144.0
+9,India,2021-01-24 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1615504.0,0.12,1615504.0,0.12,0.0,0.0,198743.0,26.0,144.0
+10,India,2021-01-25 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2023809.0,0.15,2023809.0,0.15,0.0,0.0,224251.0,25508.0,163.0
+11,India,2021-01-26 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2029480.0,0.15,2029480.0,0.15,0.0,0.0,193521.0,-30730.0,140.0
+12,India,2021-01-27 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2355979.0,0.17,2355979.0,0.17,0.0,0.0,221356.0,27835.0,160.0
+13,India,2021-01-28 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2928053.0,0.21,2928053.0,0.21,0.0,0.0,269217.0,47861.0,195.0
+14,India,2021-01-29 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3500027.0,0.25,3500027.0,0.25,0.0,0.0,301348.0,32131.0,218.0
+15,India,2021-01-30 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3744334.0,0.27,3744334.0,0.27,0.0,0.0,308876.0,7528.0,224.0
+16,India,2021-01-31 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3758843.0,0.27,3758843.0,0.27,0.0,0.0,306191.0,-2685.0,222.0
+17,India,2021-02-01 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3950156.0,0.29,3950156.0,0.29,0.0,0.0,275192.0,-30999.0,199.0
+18,India,2021-02-02 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4138918.0,0.3,4138918.0,0.3,0.0,0.0,301348.0,26156.0,218.0
+19,India,2021-02-03 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4449552.0,0.32,4449552.0,0.32,0.0,0.0,299082.0,-2266.0,217.0
+20,India,2021-02-04 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4959445.0,0.36,4959445.0,0.36,0.0,0.0,290199.0,-8883.0,210.0
+21,India,2021-02-05 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5416849.0,0.39,5416849.0,0.39,0.0,0.0,273832.0,-16367.0,198.0
+22,India,2021-02-06 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5775322.0,0.42,5775322.0,0.42,0.0,0.0,290141.0,16309.0,210.0
+23,India,2021-02-07 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5812362.0,0.42,5812362.0,0.42,0.0,0.0,293360.0,3219.0,213.0
+24,India,2021-02-08 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6259008.0,0.45,6259008.0,0.45,0.0,0.0,329836.0,36476.0,239.0
+25,India,2021-02-09 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6611561.0,0.48,6611561.0,0.48,0.0,0.0,353235.0,23399.0,256.0
+26,India,2021-02-10 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7017114.0,0.51,7017114.0,0.51,0.0,0.0,366795.0,13560.0,266.0
+27,India,2021-02-11 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7505010.0,0.54,7505010.0,0.54,0.0,0.0,363652.0,-3143.0,264.0
+28,India,2021-02-12 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7967647.0,0.58,7967647.0,0.58,0.0,0.0,364400.0,748.0,264.0
+29,India,2021-02-13 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1697804,8052454.0,0.58,8044786.0,0.58,7668.0,0.0,325305.0,-39095.0,236.0
+30,India,2021-02-15 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698251,8516771.0,0.62,8418653.0,0.61,98118.0,0.01,322538.0,-2767.0,234.0
+31,India,2021-02-16 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698525,8857341.0,0.64,8641002.0,0.63,216339.0,0.02,320826.0,-1712.0,232.0
+32,India,2021-02-17 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698832,9186757.0,0.67,8844641.0,0.64,342116.0,0.02,309949.0,-10877.0,225.0
+33,India,2021-02-18 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699157,9846523.0,0.71,9381591.0,0.68,464932.0,0.03,334502.0,24553.0,242.0
+34,India,2021-02-19 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699476,10449942.0,0.76,9693000.0,0.7,756942.0,0.05,354614.0,20112.0,257.0
+35,India,2021-02-20 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699698,10838323.0,0.79,9964383.0,0.72,873940.0,0.06,397981.0,43367.0,288.0
+36,India,2021-02-21 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699735,11085173.0,0.8,10124531.0,0.73,960642.0,0.07,400080.0,2099.0,290.0
+37,India,2021-02-22 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700035,11424094.0,0.83,10308552.0,0.75,1115542.0,0.08,415332.0,15252.0,301.0
+38,India,2021-02-23 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700269,11907392.0,0.86,10585757.0,0.77,1321635.0,0.1,435722.0,20390.0,316.0
+39,India,2021-02-24 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700553,12366633.0,0.9,10884879.0,0.79,1481754.0,0.11,454268.0,18546.0,329.0
+40,India,2021-02-25 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700888,13067047.0,0.95,11206188.0,0.81,1860859.0,0.13,460075.0,5807.0,333.0
+41,India,2021-02-26 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701203,13756940.0,1.0,11552857.0,0.84,2204083.0,0.16,472428.0,12353.0,342.0
+42,India,2021-02-27 00:00:00,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701292,14242547.0,1.03,11788669.0,0.85,2453878.0,0.18,486318.0,13890.0,352.0
+43,India,2021-02-28 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCovidVaccinationCoverageReportDay43ason28thFebat7am.pdf,14301266.0,1.04,11845075.0,0.86,2456191.0,0.18,459442.0,-26876.0,333.0
+44,India,2021-03-01 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport2ndMarch2021.pdf,14854136.0,1.08,12256337.0,0.89,2597799.0,0.19,490006.0,30564.0,355.0
+45,India,2021-03-02 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport2March2021.pdf,15620749.0,1.13,12906771.0,0.94,2713978.0,0.2,530480.0,40474.0,384.0
+46,India,2021-03-03 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport3rdMarch2021.pdf,16616048.0,1.2,13739121.0,1.0,2876927.0,0.21,607059.0,76579.0,440.0
+47,India,2021-03-04 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport4thMarch2021.pdf,18005503.0,1.3,14796835.0,1.07,3208668.0,0.23,705494.0,98435.0,511.0
+48,India,2021-03-05 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thMarch2021.pdf,19497704.0,1.41,15996683.0,1.16,3501021.0,0.25,820109.0,114615.0,594.0
+49,India,2021-03-06 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thMarch2021.pdf,20922344.0,1.52,17168303.0,1.24,3754041.0,0.27,954257.0,134148.0,691.0
+50,India,2021-03-07 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage7thMarch2021.pdf,20989010.0,1.52,17227903.0,1.25,3761107.0,0.27,955392.0,1135.0,692.0
+51,India,2021-03-08 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport8thMarch2021.pdf,23008733.0,1.67,18943283.0,1.37,4065450.0,0.29,1164942.0,209550.0,844.0
+52,India,2021-03-09 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport9thMarch2021.pdf,24367906.0,1.77,20004227.0,1.45,4363679.0,0.32,1249594.0,84652.0,906.0
+53,India,2021-03-10 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport10thMarch2021.pdf,25685011.0,1.86,21034481.0,1.52,4650530.0,0.34,1295566.0,45972.0,939.0
+54,India,2021-03-11 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationCoverageReport11thMarch2021.pdf,26164920.0,1.9,21435841.0,1.55,4729079.0,0.34,1165631.0,-129935.0,845.0
+55,India,2021-03-12 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12thMarch2021.pdf,28218457.0,2.04,23075504.0,1.67,5142953.0,0.37,1245822.0,80191.0,903.0
+56,India,2021-03-13 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thMarch2021.pdf,29738409.0,2.15,24307635.0,1.76,5430774.0,0.39,1259438.0,13616.0,913.0
+57,India,2021-03-14 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationreport14thMarch2021.pdf,29908038.0,2.17,24452385.0,1.77,5455653.0,0.4,1274147.0,14709.0,923.0
+58,India,2021-03-15 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport15thMarch2021.pdf,32947432.0,2.39,27079484.0,1.96,5867948.0,0.43,1419814.0,145667.0,1029.0
+59,India,2021-03-16 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage16thMarch2021.pdf,35064536.0,2.54,28862037.0,2.09,6202499.0,0.45,1528090.0,108276.0,1107.0
+60,India,2021-03-17 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thMarch2021.pdf,37143255.0,2.69,30600787.0,2.22,6542468.0,0.47,1636892.0,108802.0,1186.0
+61,India,2021-03-18 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage18thMarch2021.pdf,39339817.0,2.85,32426230.0,2.35,6913587.0,0.5,1882128.0,245236.0,1364.0
+62,India,2021-03-19 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage19thMarch2021.pdf,42063392.0,3.05,34842030.0,2.52,7221362.0,0.52,1977848.0,95720.0,1433.0
+63,India,2021-03-20 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport20thMarch2021.pdf,44603841.0,3.23,37125187.0,2.69,7478654.0,0.54,2123633.0,145785.0,1539.0
+64,India,2021-03-21 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage21stMarch2021.pdf,45065998.0,3.27,37574302.0,2.72,7491696.0,0.54,2165423.0,41790.0,1569.0
+65,India,2021-03-22 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport22ndMarch2021.pdf,48494594.0,3.51,40631153.0,2.94,7863441.0,0.57,2221023.0,55600.0,1609.0
+66,India,2021-03-23 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport24thMarch2021.pdf,50841286.0,3.68,42731952.0,3.1,8109334.0,0.59,2253821.0,32798.0,1633.0
+67,India,2021-03-24 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport24thMarch2021.pdf,53145709.0,3.85,44846538.0,3.25,8299171.0,0.6,2286065.0,32244.0,1657.0
+68,India,2021-03-25 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport25thMarch2021.pdf,55504440.0,4.02,47001472.0,3.41,8502968.0,0.62,2309232.0,23167.0,1673.0
+69,India,2021-03-26 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport26thMarch2021.pdf,58109773.0,4.21,49426618.0,3.58,8683155.0,0.63,2292340.0,-16892.0,1661.0
+70,India,2021-03-27 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf,60269782.0,4.37,51441436.0,3.73,8828346.0,0.64,2237992.0,-54348.0,1622.0
+71,India,2021-03-28 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport28thMarch2021.pdf,60530435.0,4.39,51660234.0,3.74,8870201.0,0.64,2209205.0,-28787.0,1601.0
+72,India,2021-03-29 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationcoveragereport29thMarch2021.pdf,61113354.0,4.43,52211398.0,3.78,8901956.0,0.65,1802680.0,-406525.0,1306.0
+73,India,2021-03-30 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf,63054353.0,4.57,53989035.0,3.91,9065318.0,0.66,1744724.0,-57956.0,1264.0
+74,India,2021-03-31 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport31stMarch2021.pdf,65117896.0,4.72,55783201.0,4.04,9334695.0,0.68,1710312.0,-34412.0,1239.0
+75,India,2021-04-01 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport1stApril2021.pdf,68789138.0,4.98,59148798.0,4.29,9640340.0,0.7,1897814.0,187502.0,1375.0
+76,India,2021-04-02 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageREport2ndApril2021.pdf,73054295.0,5.29,63081589.0,4.57,9972706.0,0.72,2134932.0,237118.0,1547.0
+77,India,2021-04-03 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationcoveragereport3rdApril2021.pdf,75979651.0,5.51,65739470.0,4.76,10240181.0,0.74,2244267.0,109335.0,1626.0
+78,India,2021-04-04 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport4thApril2021.pdf,79105163.0,5.73,68678838.0,4.98,10426325.0,0.76,2653533.0,409266.0,1923.0
+79,India,2021-04-05 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thApril2021.pdf,83110926.0,6.02,72277309.0,5.24,10833617.0,0.79,3142510.0,488977.0,2277.0
+80,India,2021-04-06 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thApril2021.pdf,87077474.0,6.31,75937015.0,5.5,11140459.0,0.81,3431874.0,289364.0,2487.0
+81,India,2021-04-07 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport7thApril2021.pdf,90198673.0,6.54,78763027.0,5.71,11435646.0,0.83,3582968.0,151094.0,2596.0
+82,India,2021-04-08 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageREport8thApril2021.pdf,94334262.0,6.84,82456522.0,5.98,11877740.0,0.86,3649303.0,66335.0,2644.0
+83,India,2021-04-09 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport9thApril2021.pdf,98075160.0,7.11,85763852.0,6.21,12311308.0,0.89,3574409.0,-74894.0,2590.0
+84,India,2021-04-10 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport10thApril2021.pdf,101595147.0,7.36,88885961.0,6.44,12709186.0,0.92,3659357.0,84948.0,2652.0
+85,India,2021-04-11 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport11thApril2021.pdf,104528565.0,7.57,91587400.0,6.64,12941165.0,0.94,3631915.0,-27442.0,2632.0
+86,India,2021-04-12 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12April2021.pdf,108533085.0,7.86,95043039.0,6.89,13490046.0,0.98,3631737.0,-178.0,2632.0
+87,India,2021-04-13 00:00:00,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thApril2021.pdf,111179578.0,8.06,97301914.0,7.05,13877664.0,1.01,3443158.0,-188579.0,2495.0
+88,India,2021-04-14 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport14thApril2021.pdf,114493238.0,8.3,100179199.0,7.26,14314039.0,1.04,3470652.0,27494.0,2515.0
+89,India,2021-04-15 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport15thApril2021.pdf,117223509.0,8.49,102349255.0,7.42,14874254.0,1.08,3269892.0,-200760.0,2369.0
+90,India,2021-04-16 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport16thApril2021.pdf,119937641.0,8.69,104408484.0,7.57,15529157.0,1.13,3123212.0,-146680.0,2263.0
+91,India,2021-04-17 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thApril2021.pdf,122622590.0,8.89,106431076.0,7.71,16191514.0,1.17,3003920.0,-119292.0,2177.0
+92,India,2021-04-18 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport18thApril2021.pdf,123852566.0,8.97,107371770.0,7.78,16480796.0,1.19,2760572.0,-243348.0,2000.0
+93,India,2021-04-19 00:00:00,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport19thApril2021.pdf,127129113.0,9.21,109659181.0,7.95,17469932.0,1.27,2656575.0,-103997.0,1925.0
+94,India,2021-04-20 00:00:00,"Covaxin, Oxford/AstraZeneca",0,0.0,0.0,0.0,0.0,0.0,1.3,2458290.0,-198285.0,1781.0
+95,India,2021-04-21 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,129646105.0,9.39,111673361.0,8.09,17972744.0,1.3,2164695.0,-293595.0,1569.0
+96,India,2021-04-22 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,132754608.0,9.62,113584269.0,8.23,19170339.0,1.39,2218728.0,54033.0,1608.0
+97,India,2021-04-25 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,139185173.0,0.0,117795008.0,0.0,21390165.0,1.55,2137213.0,-81515.0,1549.0
+98,India,2021-04-26 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,142524947.0,0.0,119886252.0,0.0,22638695.0,1.55,2059866.0,-77347.0,1493.0
+99,India,2021-04-27 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,144879233.0,10.09,121263287.0,8.54,23615946.0,1.55,2190372.0,130506.0,1587.0
+100,India,2021-04-28 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,147053392.0,10.33,122538179.0,8.69,24515213.0,1.64,2199405.0,9033.0,1594.0
+101,India,2021-04-29 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,149268772.0,10.5,123811908.0,8.79,25456864.0,1.71,2355946.0,156541.0,1707.0
+102,India,2021-04-30 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,151998107.0,10.66,125376952.0,8.88,26621155.0,1.78,2486755.0,130809.0,1802.0
+103,India,2021-05-01 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,153626325.0,10.82,126328970.0,8.97,27297355.0,1.84,2359166.0,-127589.0,1710.0
+104,India,2021-05-02 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,154211511.0,11.01,126704151.0,9.09,27507360.0,1.93,2442854.0,83688.0,1770.0
+105,India,2021-05-03 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,156082136.0,11.13,127696675.0,9.15,28385461.0,1.98,2369239.0,-73615.0,1717.0
+106,India,2021-05-04 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,157750752.0,11.17,128627919.0,9.18,29122833.0,1.99,2146620.0,-222619.0,1556.0
+107,India,2021-05-05 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,159931238.0,11.31,129730641.0,9.25,30200597.0,2.06,1936741.0,-209879.0,1403.0
+108,India,2021-05-06 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,162603603.0,11.43,131058890.0,9.32,31544713.0,2.11,1838788.0,-97953.0,1332.0
+109,India,2021-05-07 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,165190000.0,11.59,132294827.0,9.4,32895173.0,2.19,1839692.0,904.0,1333.0
+110,India,2021-05-08 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,167493857.0,11.78,133366482.0,9.5,34127375.0,2.29,1904976.0,65284.0,1380.0
+111,India,2021-05-09 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,168304868.0,11.97,133854676.0,9.59,34450192.0,2.38,1884556.0,-20420.0,1366.0
+112,India,2021-05-10 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,171098918.0,12.14,135192013.0,9.66,35906905.0,2.47,1981076.0,96520.0,1436.0
+113,India,2021-05-11 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,173862643.0,12.2,136557345.0,9.7,37305298.0,2.5,2013337.0,32261.0,1459.0
+114,India,2021-05-12 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,176045577.0,12.4,137805245.0,9.8,38240332.0,2.6,2145255.0,131918.0,1555.0
+115,India,2021-05-13 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,178361846.0,12.6,139087590.0,9.9,39274256.0,2.7,2301699.0,156444.0,1668.0
+116,India,2021-05-14 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,179646413.0,12.76,139861462.0,9.99,39784951.0,2.77,2302048.0,349.0,1668.0
+117,India,2021-05-15 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,181544536.0,12.92,141132112.0,10.08,40412424.0,2.85,2251178.0,-50870.0,1631.0
+118,India,2021-05-16 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,182251006.0,13.02,141764335.0,10.13,40486671.0,2.88,2065202.0,-185976.0,1497.0
+119,India,2021-05-17 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,183817204.0,13.16,143090218.0,10.23,40726986.0,2.93,2007240.0,-57962.0,1455.0
+120,India,2021-05-18 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,185191602.0,13.21,144270200.0,10.27,40921402.0,2.93,1992305.0,-14935.0,1444.0
+121,India,2021-05-19 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,186410600.0,13.32,145333606.0,10.37,41076994.0,2.95,1816898.0,-175407.0,1317.0
+122,India,2021-05-20 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,187886885.0,13.42,146624652.0,10.45,41262233.0,2.97,1618423.0,-198475.0,1173.0
+123,India,2021-05-22 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,190842497.0,13.51,149219616.0,10.53,41622881.0,2.98,1480718.0,-137705.0,1073.0
+124,India,2021-05-23 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,191719240.0,13.61,150033188.0,10.62,41686052.0,2.99,1360720.0,-119998.0,986.0
+125,India,2021-05-24 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,194165711.0,0.0,152301505.0,0.0,41864206.0,3.02,1388325.0,27605.0,1006.0
+126,India,2021-05-25 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,195506779.0,13.83,153511379.0,10.81,41995400.0,3.02,1328280.0,-60045.0,963.0
+127,India,2021-05-26 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,198425615.0,13.89,156189641.0,10.87,42235974.0,3.02,1352605.0,24325.0,980.0
+128,India,2021-05-27 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,201203166.0,14.07,158783606.0,11.04,42419560.0,3.03,1478358.0,125753.0,1071.0
+129,India,2021-05-28 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,203166802.0,14.17,160605562.0,11.12,42561240.0,3.04,1473597.0,-4761.0,1068.0
+130,India,2021-05-29 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,207088953.0,14.38,164158704.0,11.32,42930249.0,3.06,1716431.0,242834.0,1244.0
+131,India,2021-05-30 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,208665123.0,14.58,165598013.0,11.51,43067110.0,3.07,1902326.0,185895.0,1378.0
+132,India,2021-05-31 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,210449895.0,14.72,167191085.0,11.64,43258810.0,3.08,1971730.0,69404.0,1429.0
+133,India,2021-06-01 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,213135738.0,15.01,169585180.0,11.9,43550558.0,3.11,2320922.0,349192.0,1682.0
+134,India,2021-06-02 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,215678166.0,15.12,171866824.0,12.0,43811342.0,3.12,2420840.0,99918.0,1754.0
+135,India,2021-06-03 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,218344384.0,15.25,174296917.0,12.12,44047467.0,3.13,2326312.0,-94528.0,1686.0
+136,India,2021-06-04 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,223607768.0,15.44,179172948.0,12.29,44434820.0,3.16,2518423.0,192111.0,1825.0
+137,India,2021-06-05 00:00:00,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,225571144.0,15.63,180972102.0,12.45,44599042.0,3.17,2464650.0,-53773.0,1786.0
+138,0,0,0,0,0.0,15.82,0.0,12.63,0.0,3.19,2448745.0,-15905.0,1774.0
+139,0,0,0,0,0.0,16.2,0.0,12.98,0.0,3.22,2920138.0,471393.0,2116.0
+140,0,0,0,0,0.0,16.35,0.0,13.11,0.0,3.23,2640313.0,-279825.0,1913.0

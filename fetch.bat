@@ -4,7 +4,7 @@ TITLE Fetching and Preprocessing Data
 
 ECHO Fetching Data...
 :: Moving to the desired directory
-SET root=D:\Mihir\Data Science\Material\Dataset
+SET root=D:\Mihir\Data Science\Material\Dataset\Automate Data Fetch and Upload
 cd /D %root%
 ECHO Current Directory:
 cd
@@ -20,7 +20,9 @@ ECHO Downloading files...
 cd Raw Data
 
 wget -O India.csv https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/country_data/India.csv
-wget -O vaccinations.csv https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+wget -O Vaccinations.csv https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+
+cd ..
 
 :: Preprocessing and merging the files using the python script
 ECHO "Executing Preprocessing Pipeline..."

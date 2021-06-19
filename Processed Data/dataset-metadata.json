@@ -1,0 +1,29 @@
+{
+  "id": "mihir27/covid19-vaccinations-india",
+  "id_no": 1265066,
+  "datasetId": 1265066,
+  "datasetSlug": "covid19-vaccinations-india",
+  "ownerUser": "mihir27",
+  "usabilityRating": 1.0,
+  "totalViews": 1041,
+  "totalVotes": 2,
+  "totalDownloads": 210,
+  "title": "COVID-19 Vaccinations India",
+  "subtitle": "Daily and Statewise Covid-19 Vaccinations in India",
+  "description": "### Context\n\n- First case of COVID-19 in India was announced on 27th January 2020 in Thrissur Kerala. After October 2020, there was some relief due to the subsiding of the curve of the covid case.\n- In January 2020, the Government of India approved two vaccines i.e. Astra-Zeneca's Vaccine produced by Serum Institute - Covidsheild and Bharat Biotech's indigenous vaccine - Covaxin.\n- This dataset deals with these vaccinations in India and provides insights into them. The two files provide information about daily COVID-19 vaccinations throughout the country and total vaccinations in each state.\n- The data was collected from [Our World in Data](https://ourworldindata.org) Github repo for [covid-19](https://github.com/owid/covid-19-data) and Government of India [website](https://www.mohfw.gov.in) containing Vaccinations State Data, merged with relevant attributes, and uploaded.\n- Government of India also approved Russia's Sputnik V for emergency use authorization on 12th April 2021.\n\n### Content\n\n#### ```Covid-19_India_Daywise_Vaccinations.csv```\nColumns:\n- ```location```- Location of the vaccination(country).\n- ```date```- Date in format ***dd-mm-yyyy***.\n- ```vaccine```- Name of the vaccine(s) administered in the country on that day.\n- ```source_url```- Source of the information for the vaccination.\n- ```total-vaccinations```- Total number of doses administered till that day. If a person receives one dose of the vaccine, this metric goes up by 1. If they receive a second dose, it goes up by 1 again.\n- ```total_vaccinations_per_hundred```- ```total_vaccinations``` per 100 people in the total population.\n- ```people_vaccinated```- Total number of people who received at least one vaccine dose. If a person receives the first dose of a 2-dose vaccine, this metric goes up by 1. If they receive the second dose, the metric stays the same.\n- ```people_vaccinated_per_hundred```-  ```people_vaccinated``` per 100 people in the total population.\n- ```people_fully_vaccinated```- Total number of people who received all doses prescribed by the vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1.\n- ```people_fully_vaccinated_per_hundred```- ```people_fully_vaccinated``` per 100 people in the total population.\n- ```daily_vaccinations```- New doses administered per day.\n- ```daily_vaccinations_per_million```- ```daily_vaccinations``` per 1,000,000 people in the total population.\n- ```daily_change_in_vaccinations```- Change in the number of doses administered (```daily_vaccinations```) from the previous day.\n\n####```Covid-19_Statewise_Vaccination_India.csv```\nColumns:\n- ```State/Union Territory```- Name of the State or Union Territory.\n- ```Population (2011 census)```- Population of the State/UT based on 2011 census.\n- ```1st dose```- Number of first doses that were administered.\n- ```2nd dose```- Number of second doses that were administered.\n- ```Cumulative doses administered```- Total number of doses administered till date.\n- ```Percentage of people given atleast one dose```- Percent of the population of the state.\n- ```Percentage of people fully vaccinated```- Percent of the population of the state.\n\n\n### Acknowledgements\n\nI like to specify that I am only making available to Kagglers the data that is produced and maintained by **Our World in Data** through their Github repo, and also the **Ministry of Health and Family Welfare Government of India** which provide daily vaccine stats through their website.\n- [Our World in Data Github Repo](https://github.com/owid/covid-19-data)\n- [Ministry of Health and Family Welfare Government of India](https://www.mohfw.gov.in)\n\n\n### Inspiration\n\nFrom this data, what you could do is:\n- Visualisations about the daily vaccination trends in the country.\n- Which state has the fastest pace in vaccination?\n- Prediction of future daily vaccinations in the country.",
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "healthcare",
+    "public health",
+    "covid19",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

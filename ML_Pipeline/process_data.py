@@ -61,7 +61,7 @@ def merge_data():
      'people_fully_vaccinated',
      'people_fully_vaccinated_per_hundred',       
      'daily_vaccinations',
-     'daily_change_in_vaccinations',
+    #  'daily_change_in_vaccinations',
      'daily_vaccinations_per_million',
      ]
     df = df[cols]

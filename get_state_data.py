@@ -15,9 +15,11 @@ soup = BeautifulSoup(html_content, "html.parser")
 
 pdf_url = None
 
-element = soup.find_all(class_="icon-dashboard")[1]
-child = element.findChildren("a", recursive=False)[0]
+element = soup.find_all(class_="col-sm-2 btns")[0]
+child = element.findChildren("ul", recursive=False)[0].findChildren("li", recursive=False)[0].findChildren("a", recursive=False)[0]
 link = child.get("href")
+# link = element[0].select("div > ul > a")
 
 print(link)
+# print(child)
 item = subprocess.Popen([r".\fetch2.bat", link], shell=True)

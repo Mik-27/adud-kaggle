@@ -25,10 +25,9 @@ cd ML_Pipeline
 ::env1\Scripts\activate.bat
 
 python process_data2.py
+cd ..
 ::deactivate
 
 ECHO ====================================================
 ECHO "Covid-19_Statewise_Vaccination_India.csv created."
 ECHO ====================================================
-
-PAUSE

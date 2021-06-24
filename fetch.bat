@@ -28,8 +28,9 @@ cd ..
 ECHO "Executing Preprocessing Pipeline..."
 cd ML_Pipeline
 python process_data.py
+cd ..
 
 ECHO ====================================================
 ECHO "Covid-19_Daily_Vaccinations_India.csv created."
 ECHO ====================================================
-PAUSE
+

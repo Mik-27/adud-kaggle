@@ -2,6 +2,10 @@
 
 TITLE Executing Pipeline
 
-fetch.bat
+CALL fetch.bat
 
-fetch2.bat
+python get_state_data.py
+
+CALL upload_data.bat
+
+EXIT

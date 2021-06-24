@@ -19,8 +19,8 @@ The OWID repo contains data about the daily vaccinations. The Mohfw website is u
 
 ```wget``` should be downloaded and set according to the procedure on its website. A ```Kaggle API key``` is required in order to use the API.
 
-## Setting Virtual Env for Data Processing Files
-
+<!-- ## Setting Virtual Env for Data Processing Files -->
+<!-- 
 Install virtual environment package:
 
 ```pip install virtualenv```
@@ -36,7 +36,7 @@ Activating env:
 
 Install the required packages:
 
-```pip install -r requirements.txt```
+```pip install -r requirements.txt``` -->
 
 ## Execution of the pipeline
 
@@ -52,4 +52,11 @@ This is a very specific project for my requirements and dataset. It just gibes a
 
 ## Licence 
 
-- Licensed under [MIT License](LICENSE.md)
+- Licensed under the [MIT License](LICENSE.md)
+
+## Author 
+
+- [Mihir Thakur](https://mik-27.github.io/)
+
+
+Do leave a star ⭐ if you found this useful.

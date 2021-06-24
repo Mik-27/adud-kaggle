@@ -38,8 +38,18 @@ Install the required packages:
 
 ```pip install -r requirements.txt```
 
-## Running the application
+## Execution of the pipeline
 
 Run the ```execute_pipeline.bat``` file which will run the batch files for fetching the data(i.e. ```fetch.bat``` & ```fetch2.bat```) and also that for uploading the data on Kaggle(i.e. ```upload_data.bat```)
 
 This will run the command prompt for running the batch files fetching the data, storing it in ```Raw Data``` folder. Then processing the data in proper format and store it in ```Processed Data``` folder. These files will finally be uploaded to Kaggle using API.
+
+This is a very specific project for my requirements and dataset. It just gibes an idea about how you can implement similar procedure for your datasets, for uploading them to kaggle.
+
+## Automate this process
+
+- Uploading the dataset every day after it is updated can be a tedious task. A task can be scheduled on your machine to execute the pipeline eevery day at a specific time. Thus reducing the intervention needed to upload every time and keep the data up-to-date.
+
+## Licence 
+
+- Licensed under [MIT License]()
